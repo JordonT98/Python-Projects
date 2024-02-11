@@ -1,6 +1,6 @@
 # Projects
 
-[Movie Portfolio Project.ipynb](https://github.com/JordonT98/Python-Projects/blob/main/Movie%20Portfolio%20Project.ipynb)
+[Movie Portfolio Project](https://github.com/JordonT98/Python-Projects/blob/main/Movie%20Portfolio%20Project.ipynb)
 
 •	Utilized Python for data extraction, cleaning, type conversion, and sorting.
 
